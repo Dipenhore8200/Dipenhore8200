@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dipenhore8200
+- 👋 Hi, I’m @Dipenhore
 - 🌱 I’m currently studying maachine learning
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me www.linkedin.com/in/dipen-hore-96996b202
